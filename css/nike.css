@@ -1,0 +1,148 @@
+body {
+    background-color: whitesmoke;
+
+}
+
+
+
+
+
+.container img {
+    width: 150px;
+    margin-top: 20px;
+
+}
+
+.container a {
+    width: -50px;
+    color: black;
+    text-decoration: none;
+    margin-right: 20px;
+    float: right;
+    margin-top: 40px;
+
+
+}
+
+#main img {
+    width: 650px;
+    margin-top: 40px;
+    margin-left: 250px;
+
+
+}
+
+#main p {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+#work {
+    position: relative;
+}
+
+#work img {
+    width: 850px;
+    margin-top: 40px;
+    margin-left: 155px;
+    position: absolute;
+
+}
+
+#work h3 {
+    font-size: 80px;
+    margin-left: 280px;
+    margin-top: 280px;
+    position: absolute;
+    color: rgb(255, 251, 14);
+
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+
+#work p {
+    position: absolute;
+    margin-top: 640px;
+    margin-left: 505px;
+    font-size: 40px;
+    letter-spacing: 2px;
+    border: solid 3px black;
+    border-radius: 5px 5px;
+    color: white;
+    background-color: black;
+
+}
+
+#work p:hover {
+    color: black;
+    background-color: white;
+
+}
+
+.nav {
+    display: flex;
+
+
+}
+
+.nav1 {
+    margin-top: 800px;
+    margin-left: 200px;
+}
+
+.nav img {
+    width: 200px;
+    margin-left: 150px;
+
+}
+
+.nav a {
+    width: -50px;
+    color: black;
+    text-decoration: none;
+    margin-right: 100px;
+    float: right;
+    margin-top: 150px;
+    word-spacing: 5px;
+
+
+}
+
+.nav a:hover {
+
+    color: rgb(97, 55, 55);
+}
+
+footer {
+    padding: 30px 0px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    
+        
+
+}
+
+footer ul {
+    list-style: none;
+    display: flex;
+}
+
+.footer-nav li a{
+    margin-left: 50px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.social-nav li i{
+    margin-left: 100px;
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+
+
+
